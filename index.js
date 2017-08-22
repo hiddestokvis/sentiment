@@ -59,7 +59,7 @@ module.exports = function sentiment(language, sentence) {
 
     if (i > 0) {
       const previousToken = tokens[i - 1];
-      if (negators[previousToken]) {
+      if (negators.indexOf(previousToken) > -1) {
         normScore = -normScore;
       }
     }

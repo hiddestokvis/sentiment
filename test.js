@@ -17,7 +17,8 @@ const sentences = [
   'cats are stupid',
   'cats are amazing',
   'i am embarrassed',
-  'i am the best most awesome person in the world'
+  'i am the best most awesome person in the world',
+  'i don\'t kill'
 ];
 
 for (let i = 0; i < sentences.length; i += 1) {
