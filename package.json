@@ -1,6 +1,6 @@
 {
   "name": "sentimental",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sentiment analysis for Node.js",
   "main": "index.js",
   "scripts": {
