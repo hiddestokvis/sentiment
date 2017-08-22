@@ -1,5 +1,5 @@
 {
-  "name": "sentiment",
+  "name": "sentimental",
   "version": "0.1.0",
   "description": "Sentiment analysis for Node.js",
   "main": "index.js",
