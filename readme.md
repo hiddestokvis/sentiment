@@ -1,4 +1,4 @@
-# Sentiment
+# Sentimental
 
 A sentiment analyzer for English, Dutch and German. Feel free to add more languages.
 
