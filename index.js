@@ -55,11 +55,13 @@ module.exports = function sentiment(language, sentence) {
     const word = tokens[i];
     const norm = norms[word];
     if (typeof norm === 'undefined') continue;
-    const normScore = normalize(config.scale.from, config.scale.to, norm);
+    let normScore = normalize(config.scale.from, config.scale.to, norm);
 
     if (i > 0) {
       const previousToken = tokens[i - 1];
-      if (negators[previousToken]) normScore = -normScore;
+      if (negators[previousToken]) {
+        normScore = -normScore;
+      }
     }
     score.push(normScore);
   }
