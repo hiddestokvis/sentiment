@@ -1,0 +1,26 @@
+{
+  "name": "sentiment",
+  "version": "0.1.0",
+  "description": "Sentiment analysis for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hiddestokvis/sentiment.git"
+  },
+  "keywords": [
+    "Sentiment",
+    "analysis",
+    "dutch",
+    "english",
+    "german"
+  ],
+  "author": "Hidde Stokvis <hidde@neverhide.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hiddestokvis/sentiment/issues"
+  },
+  "homepage": "https://github.com/hiddestokvis/sentiment#readme"
+}

@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "scale": {
+    "from": -5,
+    "to": 5
+  },
+  "negators": [
+    "cant",
+    "can't",
+    "dont",
+    "don't",
+    "doesnt",
+    "doesn't",
+    "not",
+    "non",
+    "wont",
+    "won't",
+    "isnt",
+    "isn't"
+  ]
+}

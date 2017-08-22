@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "scale": {
+    "from": 2,
+    "to": 8
+  },
+  "negators": [
+    "nein",
+    "kein",
+    "keine",
+    "keinen",
+    "nicht",
+    "nichts"
+  ]
+}

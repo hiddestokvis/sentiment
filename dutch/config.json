@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "scale": {
+    "from": 1,
+    "to": 7
+  },
+  "negators": [
+    "geen",
+    "nooit",
+    "niet",
+    "nergens",
+    "nimmer"
+  ]
+}
